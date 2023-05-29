@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-@file example.py
+@file detectCoord.py
 @brief Este codigo recive una imagen, detecta un objeto verde y obtiene sus cordenadas estas para publicarlas en un ros topic multiplicadas por cien.
 """
 import cv2
