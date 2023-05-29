@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+import "google/protobuf/empty.proto";
+
+package RPCGatewayCoords;
+option go_package = "rest-gw.com/restgw/protos";
+
+import "google/api/annotations.proto";
+
+service Coords{
+ rpc GetCoords(google.protobuf.Empty) returns (MessageResponse){
+    option(google.api.http) = {
+        post: "/restgatewaycoords/getcoords"
+        body: "*"
+    };
+ };
+}
+
+message MessageResponse{
+ repeated double data = 1 [packed = true];
+}

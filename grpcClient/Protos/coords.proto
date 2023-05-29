@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "google/protobuf/empty.proto";
+option csharp_namespace = "GrpcCoords";
+
+package coords;
+
+service Coords{
+ rpc GetCoords(google.protobuf.Empty) returns (MessageResponse);
+}
+
+message MessageResponse{
+ repeated double data = 1 [packed = true];
+}

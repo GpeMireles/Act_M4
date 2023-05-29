@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "rSNVBIHGfCcKvfpozXd1dOU/n24MyIrCAMSayj5eSG+/ztPUHxaCiu9HbNcYl5sHkiPtWPqXE86VWrM6nAsaNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey\\Documents\\Tec\\8°\\Integración Robotica\\Interfaces\\grpcClient\\grpcClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\google.protobuf\\3.23.2\\google.protobuf.3.23.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\grpc.core\\2.46.6\\grpc.core.2.46.6.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\grpc.core.api\\2.53.0\\grpc.core.api.2.53.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\grpc.net.client\\2.53.0\\grpc.net.client.2.53.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\grpc.net.common\\2.53.0\\grpc.net.common.2.53.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\grpc.tools\\2.54.0\\grpc.tools.2.54.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
